@@ -1,5 +1,12 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
 /checkers/.vs/checkers/v16
+checkers/checkers.sln
+checkers/.vs/checkers/v16/.suo
+checkers/.vs/checkers/v16/Browse.VC.db
+checkers/.vs/checkers/v16/Browse.VC.db-shm
+checkers/.vs/checkers/v16/Browse.VC.db-wal
+checkers/.vs/checkers/v16/Browse.VC.opendb
+checkers/.vs/checkers/v16/ipch/AutoPCH/5ab7b56b0fa3a10f/CHECKERS.ipch
